@@ -1,6 +1,6 @@
 # Leap Year Warmup Exercise
 
-Do this in HTML and JS!
+Do this inJS!
 
 Write a function that will take any given year and return whether it is a leap year or not.
 Remember that a leap year is:
